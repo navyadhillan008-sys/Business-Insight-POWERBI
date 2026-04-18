@@ -1,7 +1,3 @@
-🧠 📊 TERE DASHBOARD KE INSIGHTS (direct likh sakti hai)
-
-👉 ye tu Markdown / LinkedIn / Interview me use karegi
-
 🟢 🔹 1. Category-wise Sales
 
 👉 “Different categories contribute unequally to total sales.”
